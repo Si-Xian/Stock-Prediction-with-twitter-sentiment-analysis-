@@ -36,3 +36,6 @@ For instance, we could use the data of the past 3 days to predict the next day c
 
 •Besides, more layers and indicators can be added to the model to improve the power of the model. Macroeconomic indicators, such as GDP, inflation rate (CPI), and the global unemployment rate can be added to build the model.
 Upload cp2 slides
+
+## Appendix
+Visuals.pdf (Uploaded) is the file that i use to present my work. Feel free to have a look on the details for the visualizations and other info. of this project.
